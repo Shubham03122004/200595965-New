@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/projectbundle/HelloApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/HelloApp.16miwk9nty.bundle.scp.css"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.HelloApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.HelloApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.HelloApp.props",
+      "PackagePath": "build\\HelloApp.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.HelloApp.props",
+      "PackagePath": "buildMultiTargeting\\HelloApp.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.HelloApp.props",
+      "PackagePath": "buildTransitive\\HelloApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

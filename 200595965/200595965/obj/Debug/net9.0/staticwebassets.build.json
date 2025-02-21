@@ -1,0 +1,694 @@
+{
+  "Version": 1,
+  "Hash": "iIkpaNQeUREUvVvICW2dA5etULR4Pwx5HcFyR4//1D8=",
+  "Source": "HelloApp",
+  "BasePath": "_content/HelloApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/compressed/3164czulrl-16miwk9nty.gz",
+      "SourceId": "HelloApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/HelloApp",
+      "RelativePath": "HelloApp#[.{fingerprint=16miwk9nty}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/bundle/HelloApp.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lwj9j7ynxv",
+      "Integrity": "BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/bundle/HelloApp.styles.css"
+    },
+    {
+      "Identity": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/compressed/ikjjvj5zsx-16miwk9nty.gz",
+      "SourceId": "HelloApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/HelloApp",
+      "RelativePath": "HelloApp#[.{fingerprint=16miwk9nty}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/projectbundle/HelloApp.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lwj9j7ynxv",
+      "Integrity": "BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/projectbundle/HelloApp.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/bundle/HelloApp.styles.css",
+      "SourceId": "HelloApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/bundle/",
+      "BasePath": "_content/HelloApp",
+      "RelativePath": "HelloApp#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "16miwk9nty",
+      "Integrity": "R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/bundle/HelloApp.styles.css"
+    },
+    {
+      "Identity": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/projectbundle/HelloApp.bundle.scp.css",
+      "SourceId": "HelloApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/projectbundle/",
+      "BasePath": "_content/HelloApp",
+      "RelativePath": "HelloApp#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "16miwk9nty",
+      "Integrity": "R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/projectbundle/HelloApp.bundle.scp.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "HelloApp.16miwk9nty.bundle.scp.css",
+      "AssetFile": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/compressed/ikjjvj5zsx-16miwk9nty.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001858736059"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 23:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "16miwk9nty"
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.16miwk9nty.bundle.scp.css",
+      "AssetFile": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/projectbundle/HelloApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 23:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "16miwk9nty"
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.16miwk9nty.bundle.scp.css.gz",
+      "AssetFile": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/compressed/ikjjvj5zsx-16miwk9nty.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 23:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "16miwk9nty"
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.16miwk9nty.styles.css",
+      "AssetFile": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/compressed/3164czulrl-16miwk9nty.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001858736059"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 23:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "16miwk9nty"
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.16miwk9nty.styles.css",
+      "AssetFile": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/bundle/HelloApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 23:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "16miwk9nty"
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.16miwk9nty.styles.css.gz",
+      "AssetFile": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/compressed/3164czulrl-16miwk9nty.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 23:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "16miwk9nty"
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.bundle.scp.css",
+      "AssetFile": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/compressed/ikjjvj5zsx-16miwk9nty.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001858736059"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 23:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.bundle.scp.css",
+      "AssetFile": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/projectbundle/HelloApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 23:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.bundle.scp.css.gz",
+      "AssetFile": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/compressed/ikjjvj5zsx-16miwk9nty.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 23:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.styles.css",
+      "AssetFile": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/compressed/3164czulrl-16miwk9nty.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001858736059"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 23:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.styles.css",
+      "AssetFile": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/scopedcss/bundle/HelloApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 23:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R3/FOraZPO/XIWxt7OGyVvnHHEIbEMjOSDGG5Qr0KOE="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.styles.css.gz",
+      "AssetFile": "/Users/nitink/Desktop/200595965/obj/Debug/net9.0/compressed/3164czulrl-16miwk9nty.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 23:24:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRwtPF5n0gUsYnEAn42GdQxSdloDPSDXPyt/QwfQZWI="
+        }
+      ]
+    }
+  ]
+}
